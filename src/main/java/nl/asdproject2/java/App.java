@@ -1,11 +1,5 @@
-package nl.asdproject2;
+package nl.asdproject2.java;
 
-import java.io.IOException;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

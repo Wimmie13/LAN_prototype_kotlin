@@ -1,4 +1,4 @@
-package nl.asdproject2;
+package nl.asdproject2.java;
 
 import java.io.*;
 
